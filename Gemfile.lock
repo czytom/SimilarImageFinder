@@ -1,0 +1,12 @@
+GEM
+  remote: http://gems.github.com/
+  specs:
+    exifr (1.2.0)
+    ftools (0.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  exifr
+  ftools
